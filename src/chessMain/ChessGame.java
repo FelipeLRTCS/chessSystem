@@ -8,6 +8,7 @@ public class ChessGame{
 		
 		ChessMatch chessMatch = new ChessMatch();
 		UI.printBoard(chessMatch.getPieces());
+		System.out.println("God is the best");
 	
 	}
 }
